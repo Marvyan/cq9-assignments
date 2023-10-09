@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mother{
+    height: 500px;
+    width: 1000px;
+    background-color: aqua;
+}
+.blue{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    float: left;
+}
+.white{
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    float: right;
+}
+.content{
+    padding: 100px;
+    color: white;
+}
+.content h4{
+    font-size: 20px;
+    padding-bottom: 10 px;
+}
+form{
+    padding: 20px;
+}
+input{
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px 1px blue;
+}
+button{
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(63, 121, 209);
+    color: rgb(63, 121, 209);
+}
+h2{
+    padding: center;
+}
+.detail{
+    padding: 90px;  
+}
+.detail i{
+    font-size: 30px;
+}
+.detail h2{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.detail p{
+    font-weight: bold;
+}
+.detail button{
+    width: 330px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+.button1{
+    background-color: rgb(63, 121, 209);
+    color: white;
+
+}
+.button2{
+    border-color: rgb(63, 121, 209);
+}
